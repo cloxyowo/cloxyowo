@@ -31,6 +31,6 @@
 
 ## 📫 Contact
 <p align="center">
-  <a href="mailto:cloxy611@gmail.com"><img src="https://img.shields.io/badge/Email-AD00FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:cloxy@azura.uno"><img src="https://img.shields.io/badge/Email-AD00FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://discord.com/users/1327631433249984603"><img src="https://img.shields.io/badge/Discord-AD00FF?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
